@@ -46,4 +46,4 @@ const NotePreviewClient = () => {
     )
 }
 
-export default NotePreviewClient
+export default NotePreviewClient;
